@@ -2,8 +2,8 @@
 ### Hi, I'm Minwoo Jeong 😄
 - 👋 I’m a junior software engineer @tmaxdata.
 - 🔭 I'm currently working on developing and maintaining database management system (DBMS), mainly focusing on parser and interpreter.
-- 💻 Previous domain was bioinformatics and current main side project is also related to bioinformatics.
-- 🏃 But always looking for other interesting things and always doing practices  
+- 💻 Previously participated in bioinformatics projects in academia and current main side project is also related to that domain.
+- 🏃 Always looking for other interesting things and always doing practices  
 - 🌱 Current interests are mainly focused on server-side programming (Go, C, C++, etc.). 
 
 ### Homepages

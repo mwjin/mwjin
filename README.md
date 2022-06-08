@@ -2,9 +2,9 @@
 ### Hi, I'm Minwoo Jeong 😄
 - 👋 I’m a software developer @tmaxdata.
 - 🔭 I'm currently working on developing and maintaining database management system (DBMS), mainly focusing on parser and interpreter.
-- :snake: I'm a Python enthusiast.
-- :keyboard: I really like to learn new programming languages such as Javascript, Go, and Rust.
-- 💻 Current interests are mainly focused on server-side programming.
+- :keyboard: I really like to learn new programming languages such as Javascript, Typescript, Go, and Rust.
+- 🤔 I always think about how to write good code and implement a good software.
+- 💻 Current interests are mainly focused on front-end web development.
 
 
 ### Homepages

@@ -1,10 +1,10 @@
 # Minwoo Jeong @mwjjeong
-### Hi, I'm Minwoo Jeong 😄
-- 👋 I’m a software developer @tmaxdata.
-- 🔭 I'm currently working on developing and maintaining database management system (DBMS), mainly focusing on parser and interpreter.
-- :keyboard: I really like to learn new programming languages such as Javascript, Typescript, Go, and Rust.
-- 🤔 I always think about how to write good code and implement a good software.
-- 💻 Current interests are mainly focused on front-end web development.
+### Hello! I'm Minwoo Jeong 😄
+- 👋 I’m a software developer who is currently working on developing and maintaining database management system (DBMS), mainly focusing on SQL compiler (Parser and Optimizer).
+- 💻 Current interests are mainly focused on developing software solutions.
+- ⌨️ I really like to learn new programming languages such as Javascript, Go, and Rust.
+- ⌨️ I always think about how to write good code and implement a scalable and sustainable software.
+- 🏋️ I always learn and practice to make valuable softwares on my own.
 
 
 ### Homepages
